@@ -1,0 +1,51 @@
+/* .Padre {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    display: flex;}
+.Hijo {
+    background-color: yellow;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;} */
+    /* .Padre {
+        background-color: blue;
+        width: 500px;
+        height: 500px;
+        display: flex;
+        justify-content: space-between}
+
+    .Hijo {
+        background-color: yellow;
+        border: 2px solid black;
+        height: 300px;
+        width: 100px;} */
+        /* .Padre {
+            background-color: blue;
+            width: 500px;
+            height: 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+    
+        .Hijo {
+            background-color: yellow;
+            border: 2px solid black;
+            height: 50px;
+            width: 50px;} */
+
+            .Padre {
+                background-color: blue;
+                width: 500px;
+                height: 500px;
+                display: flex;
+                }
+        
+            .Hijo {
+                background-color: yellow;
+                border: 2px solid black;
+                height: 100px;
+                width: 100px;}
+            
+            .derecha{margin-left: auto;}
