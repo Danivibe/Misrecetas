@@ -49,3 +49,64 @@
                 width: 100px;}
             
             .derecha{margin-left: auto;}
+
+            /* .Padre {
+                background-color: blue;
+                width: 500px;
+                height: 500px;
+                display: flex;
+                align-content: center;
+                justify-items: center;
+                }
+        
+            .Hijo {
+                background-color: yellow;
+                border: 2px solid black;
+                height: 100px;
+                width: 100px;} */
+
+                /* .Padre {
+                    background-color: blue;
+                    width: 500px;
+                    height: 500px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: flex-end;
+                    }
+            
+                .Hijo {
+                    background-color: yellow;
+                    border: 2px solid black;
+                    height: 100px;
+                    width: 100px;} */
+        
+                    /* .Padre {
+                        background-color: blue;
+                        width: 500px;
+                        height: 500px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                        align-content: space-between;
+                        }
+                
+                    .Hijo {
+                        background-color: yellow;
+                        border: 2px solid black;
+                        height: 100px;
+                        width: 100px;} */
+
+                        
+        /* .Padre {
+            background-color: blue;
+            width: 500px;
+            height: 500px;
+            display: flex;
+            overflow-x: scroll;}
+    
+        .Hijo {
+            background-color: yellow;
+            border: 2px solid black;
+            height: 100px;
+            width: 100px;
+            flex-shrink: 0;} */
