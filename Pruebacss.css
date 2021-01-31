@@ -1,0 +1,35 @@
+Body{background:crimson ;}
+        .Pum{text-align: center;
+            font-size: 50px;
+            color: white;
+            background-color: black;
+            font-style: italic;
+            border: 5px solid chocolate;}
+
+
+        .ValenciaCF {
+            display: flex;
+            justify-content:center;
+            flex-direction: column;
+            padding: 10%;
+            margin-left: 38%;
+            }
+    
+        .VCF {
+            background-color: blue;
+            border: 10px blueviolet;
+            border-top-color: blueviolet;
+            border-style:groove;
+            text-align:center;
+            height: 50px;
+            width: 70px;
+            display: flex;
+            align-items: center;}
+            
+        .Uno{background-color: coral;
+                font-style: oblique;}
+        .Otro{font-size: 30px;
+                border: 3px solid black;
+               width:500px;
+               text-align: center;
+               margin-left:35%}
