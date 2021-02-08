@@ -1,0 +1,9 @@
+body{background-color: rgb(39, 160, 240)}
+header{text-align: center; background-color: rgba(96, 79, 248, 0.37)}
+.Nav1{display: flex; justify-content: space-around;background-color: rgba(84, 67, 231, 0.37);border-radius: 100%;text-align: center; padding: 3em; font-size: 20px; border: black 3px; width: 500px; margin-left: 28%}
+main{padding: 2em; display: flex}
+.Nav2{font-size: 20px;text-align: center;margin-right:auto;background-color: rgb(79, 79, 238); border-radius: 10px; width:25%; margin-left: 20%;}
+.Nav3{font-size: 20px;text-align: center;margin-right:auto;background-color: rgb(79, 79, 238); border-radius: 10px; width:25%}
+.Div1{background-color: rgb(33, 114, 168);padding: 3em;font-size: 16px;border: black 7px solid;border-radius: 10px; border-style: double}
+.Div2{padding: 1em}
+Footer{padding: 1em; text-align: center;background-color: darkblue; color: white}
